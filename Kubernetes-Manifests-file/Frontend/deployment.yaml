@@ -29,6 +29,6 @@ spec:
         imagePullPolicy: Always
         env:
           - name: REACT_APP_BACKEND_URL
-            value: "http://api.three-tier.svc.cluster.local:3500/api/tasks"       #http://k8s-three-...elb.amazonaws.com/api/tasks  if you want to use alb to access /api/tasks endpoint
+            value: "http://k8s-threetie-mainlb-805ca14174-1241041598.ap-south-1.elb.amazonaws.com/api/tasks"   
         ports:
         - containerPort: 3000
