@@ -100,7 +100,7 @@ For both frontend and backend:
 
 Check my LinkedIn post for a full visual walkthrough,
 including Jenkins, ArgoCD, SonarQube, Prometheus, and Grafana in action:
-- [👉 View LinkedIn Post (add your actual link here)](your-linkedin-post-link)
+- [👉 View LinkedIn Post (https://www.linkedin.com/posts/gauravpatil20_aws-eks-devsecops-activity-7363199518063972354-SLtu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDC-98BDnksxUIcgMuM03zRe0M_L1Xka-Q)]
 
 ---
 
